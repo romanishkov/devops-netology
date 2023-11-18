@@ -16,3 +16,5 @@ terraform.rc
 
 newline
 
+pycharm
+
