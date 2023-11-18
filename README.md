@@ -13,3 +13,6 @@ _override.tf
 _override.tf.json
 .terraformrc
 terraform.rc
+
+newline
+
